@@ -5,5 +5,6 @@ public class secondClassPr {
         System.out.println("second class");
 
         System.out.println("adding some properties");
+        System.out.println("added in GitHub");
     }
 }
